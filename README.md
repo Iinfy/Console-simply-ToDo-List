@@ -1,6 +1,6 @@
 # Console-simply-ToDo-List
 
-This console ToDo List was created as my first java project. 
+This console ToDo List was created as my first java project. \n
 For storing files used serialization.
 For getting needed action using switch case structure.
 
